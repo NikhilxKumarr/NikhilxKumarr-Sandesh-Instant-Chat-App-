@@ -4,7 +4,7 @@ A real-time, HIPAA-esque text chat system  built with React, Node.js, and powere
 
 ---
 
-## 🎯 Features
+##  Features
 
 - **Staff Authentication** – Secure login for medical professionals.
 - **Real-time Messaging** – Instant one-on-one and group chat functionality.
@@ -14,7 +14,7 @@ A real-time, HIPAA-esque text chat system  built with React, Node.js, and powere
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React (Next.js 13)
 - **Backend**: Node.js + Express
@@ -23,7 +23,7 @@ A real-time, HIPAA-esque text chat system  built with React, Node.js, and powere
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 1. **Clone the repo**
    ```bash
@@ -61,11 +61,11 @@ A real-time, HIPAA-esque text chat system  built with React, Node.js, and powere
 
 ---
 
-## 🧩 Usage Guide
+##  Usage Guide
 
 1. **Sign up / Log in** as a staff member (email + name).
 2. **Create or select** existing chat channels (like "ER", "Radiology", etc.).
-3. **Start chatting** with colleagues in real time.
+3. **Start chatting** with your friends in real time.
 4. **Enjoy instant updates** as messages stream live via GetStream.
 
 ---
