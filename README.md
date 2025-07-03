@@ -6,7 +6,7 @@ A real-time, HIPAA-esque text chat system  built with React, Node.js, and powere
 
 ##  Features
 
-- **Staff Authentication** – Secure login for medical professionals.
+- **Authentication** – Secure login .
 - **Real-time Messaging** – Instant one-on-one and group chat functionality.
 - **Activity Notifications** – Real-time updates when new messages arrive.
 - **Responsive UI** – Clean, mobile-friendly interface built with Stream’s React components.
